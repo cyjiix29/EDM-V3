@@ -19,3 +19,4 @@ In this activity, we cleaned an excel sheet fill of errors and redundancy using 
 <img src="images/DataNOR.png" alt="Alt Text" Width="400" heigth="300">
 
 ## Here's the Physical Data Model
+<img src="images/ERD.....png" alt="Alt Text" Width="400" heigth="300">
