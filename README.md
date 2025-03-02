@@ -8,5 +8,5 @@ High School: Francisco G Nepomuceno Memorial High School
 Elementary: Pineda Gutierrez Elementary School:
 
 ## My Portfolio
-- [Midterm Lab Task 1:](Midterm%20Task%201/README.MD)
+- Midterm Lab Task 1:[Data Cleaning and Preparation](Midterm%20Task%201/README.MD)
 - Midterm Lab Task 2:
