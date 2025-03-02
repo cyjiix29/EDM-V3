@@ -17,4 +17,5 @@ In this activity, we cleaned an excel sheet fill of errors and redundancy using 
 
 ## Step 4
 <img src="images/DataNOR.png" alt="Alt Text" Width="400" heigth="300">
+
 ## Here's the Physical Data Model
