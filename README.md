@@ -3,7 +3,7 @@
 # EDM-Portfolio - Cyjiix
 This portfolio will contain copies of my Enterprise Data Management Lab Exercises 
 ## About Me
-Hi I am Cyril John P. Aneles And I am 1st year college student at City College of Angeles and my course is BSIS. 
+Hi I am Cyril John P. Angeles And I am 1st year college student at City College of Angeles and my course is BSIS. 
 ## Education:
 - College: City College of Angeles (BSIS)
 - High School: Francisco G Nepomuceno Memorial High School
