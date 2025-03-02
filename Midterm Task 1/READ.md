@@ -1,5 +1,5 @@
 
-# Midterm Lab Task 1
+# Midterm Lab Task 1 - Data Cleaning and Preparation
 In this activity, we cleaned an excel sheet fill of errors and redundancy using different excel features.
 ## Step 2
 ## Step 3
