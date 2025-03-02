@@ -3,7 +3,7 @@
 In this activity, we cleaned an excel sheet fill of errors and redundancy using different excel features.
 ## Step 1
 - Load the raw file
-- Fit Collumn and row width and hiegth
+- Fit Column and row width and height
 - TRIM extra spaces
 - Remove NULL values
 - Remove Duplicates
