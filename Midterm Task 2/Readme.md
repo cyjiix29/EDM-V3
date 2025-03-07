@@ -47,7 +47,7 @@
 - Check and replace incorrect values (e.g., "Anne Rundell" → "MA")  
 
 
-## Step 4 Split Size Column, Handle Negative Values, Clean Company Names, Copy Cleaning Steps as Proof
+## Step 4 Split Size Column
 - Create two new columns: MinCompanySize and MaxCompanySize  
 - Use the same method as Salary Estimate to split values
 ### Handle Negative Values
@@ -98,11 +98,13 @@
 - Check if all queries are correctly linked 
 
 ## Here's the screenshot of my output before I started data cleaning
+<img src="Images/QueryNaMadumi.png" alt="Alt Text" Width="900" heigth="300">
 
 ## Here's the screenshot of my output after I started data cleaning
+<img src="Images/QueryNaMalinis.png" alt="Alt Text" Width="900" heigth="300">
 
 ## Here's the screenshot of the Query Dependencies
-
+<img src="Images/Query Dependency.png" alt="Alt Text" Width="900" heigth="300">
 
 
 
