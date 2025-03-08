@@ -108,7 +108,7 @@
 <img src="Images/State_cy.png" alt="Alt Text" Width="900" heigth="300">
 
 ## Here's the screenshot of the Query Dependencies
-<img src="Images/Query Dependency.png" alt="Alt Text" Width="900" heigth="300">
+<img src="Images/Querydependency.png" alt="Alt Text" Width="900" heigth="300">
 
 
 
