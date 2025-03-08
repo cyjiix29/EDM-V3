@@ -3,7 +3,7 @@
 - This portfolio shows how to use Power Query for data preparation and cleansing. The dataset is made up of several connected tables, and before analysis, cleaning methods are used to enhance the consistency and quality of the data.
 
 
-## Step 1 Download and Load Data
+## Step 1: Download and Load Data
 - Download the dataset (Uncleaned_DS_jobs.csv)  
 - Open Excel  
 - Go to Data → New Query → Open File → Text/CSV
@@ -22,7 +22,7 @@
    - Repeat the process for Max Salary  
   
 
-## Step 2 Add Role Type Column
+## Step 2: Add Role Type Column
 - Go to Add Column Menu → Custom Column  
 - Rename the column to "Role Type"  
 - Use this logic:  
@@ -33,7 +33,7 @@
    - Otherwise, assign "Other"  
 - Change the column type to Text  
 
-## Step 3 Split Location Column
+## Step 3: Split Location Column
 - Select the Location column
 -  Add a Custom Column with corrections:  
    - If Location = "New Jersey" → Assign ", NJ"  
@@ -47,7 +47,7 @@
 - Check and replace incorrect values (e.g., "Anne Rundell" → "MA")  
 
 
-## Step 4 Split Size Column
+## Step 4: Split Size Column
 - Create two new columns: MinCompanySize and MaxCompanySize  
 - Use the same method as Salary Estimate to split values
 ### Handle Negative Values
@@ -60,7 +60,7 @@
 - Go to Home Menu → Click Advanced Editor  
 - Copy and save the code in your portfolio
 
-## Step 5 Reshape and Group Data
+## Step 5: Reshape and Group Data
 ### Group by Role Type
 - Duplicate the raw data → Rename it as "Sal By Role Type dup"
 - Select only Role Type, Min Salary, and Max Salary columns  
@@ -76,7 +76,7 @@
 - Group rows by Size and get the average for Min and Max Salary  
 
 
-## Step 6 Merge State Mapping
+## Step 6: Merge State Mapping
 - Click Unclean DS Jobs  
 - Right-click in the Queries pane → New Query → Open Workbook State Mapping  
 - Select the columns and click OK  
@@ -86,14 +86,14 @@
 - Rename the merged column as "State Full Name"  
 - Remove nulls and blanks  
 
-## Step 7 Group by State
+## Step 7: Group by State
 - Create a reference of raw data → Rename it as "Sal By State ref"  
 - Select only State Full Name, Min Salary, and Max Salary columns  
 - Change Min and Max Salary type to currency  
 - Multiply values by 1000  
 - Group rows by State Full Name and get the average for Min and Max Salary
 
-## Step 13: View Query Dependencies  
+## Step 8: View Query Dependencies  
 - Go to View Menu → Click Dependencies  
 - Check if all queries are correctly linked 
 
