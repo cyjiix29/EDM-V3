@@ -10,5 +10,6 @@ Hello, I'm Cyril John P. Angeles, a first-year student enrolled in the BSIS cour
 - Elementary: Pineda Gutierrez Elementary School:
 
 ## My Portfolio
+- EDM:[Portfolio](https://cyjiix29.github.io/EDM-V3/)
 - Midterm Lab Task 1:[Data Cleaning and Preparation using Excel](https://cyjiix29.github.io/Midterm-Task-1---Data-Cleaning-and-Preparation-using-Excel/)
 - Midterm Lab Task 2:[Data Cleaning and Preparation using Power Query](https://cyjiix29.github.io/Midterm-Task-2/)
