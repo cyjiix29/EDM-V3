@@ -11,5 +11,5 @@ Hello, I'm Cyril John P. Angeles, a first-year student enrolled in the BSIS cour
 
 ## My Portfolio
 - Midterm Lab Task 1:[Data Cleaning and Preparation using Excel](https://cyjiix29.github.io/Midterm-Task-1---Data-Cleaning-and-Preparation-using-Excel/)
-- Midterm Lab Task 2:[Data Cleaning and Preparation using Power Query](https://github.com/cyjiix29/Midterm-Task-2/blob/main/README.md)
+- Midterm Lab Task 2:[Data Cleaning and Preparation using Power Query](https://cyjiix29.github.io/Midterm-Task-2/)
 
