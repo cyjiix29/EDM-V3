@@ -13,4 +13,4 @@ Hello, I'm Cyril John P. Angeles, a first-year student enrolled in the BSIS cour
 - EDM:[Portfolio](https://cyjiix29.github.io/EDM-V3/)
 - Midterm Lab Task 1:[Data Cleaning and Preparation using Excel](https://cyjiix29.github.io/Midterm-Task-1---Data-Cleaning-and-Preparation-using-Excel/)
 - Midterm Lab Task 2:[Data Cleaning and Preparation using Power Query](https://cyjiix29.github.io/Midterm-Task-2/)
-- Midterm LAb TAsk 3:[Creating PIVOT TABLE and DASHBOARD](https://cyjiix29.github.io/Midterm-Task-3/)
+- Midterm Lab Task 3:[Creating PIVOT TABLE and DASHBOARD](https://cyjiix29.github.io/Midterm-Task-3/)
