@@ -3,7 +3,7 @@
 # EDM-Portfolio - Cyjiix
 This portfolio will contain copies of my Enterprise Data Management Lab Exercises 
 ## About Me
-<img src="images/DataRAW.png" alt="Alt Text" Width="300" heigth="150">
+### ![images](https://github.com/cyjiix29/EDM-V3/blob/main/Midterm%20Task%201/images/DataNOR.png)
 Hello, I'm Cyril John P. Angeles, a first-year student enrolled in the BSIS course at City College of Angeles. 
 ## Education:
 - College: City College of Angeles (BSIS)
