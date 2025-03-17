@@ -3,7 +3,7 @@
 # EDM-Portfolio - Cyjiix
 This portfolio will contain copies of my Enterprise Data Management Lab Exercises 
 ## About Me
-<img src="PicNiCy2.jpg" alt="Alt Text" Width="200" heigth="100">
+<img src="PicNiCy2.jpg" alt="Alt Text" Width="200" heigth="100"> <br>
 
 
 
