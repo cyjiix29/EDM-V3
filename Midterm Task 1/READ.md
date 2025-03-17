@@ -20,3 +20,8 @@ In this activity, we cleaned an excel sheet fill of errors and redundancy using 
 
 ## Here's the Physical Data Model
 <img src="images/IMG_20250306_183917.jpg" alt="Alt Text" Width="800" heigth="500">
+
+
+
+
+
