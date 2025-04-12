@@ -18,7 +18,13 @@ This portfolio will contain copies of my Enterprise Data Management Lab Exercise
 - Elementary: Pineda Gutierrez Elementary School:
 
 ## My Portfolio
+#### Midterm Task
 - EDM:[Portfolio](https://cyjiix29.github.io/EDM-V3/)
 - Midterm Lab Task 1:[Data Cleaning and Preparation using Excel](https://cyjiix29.github.io/Midterm-Task-1---Data-Cleaning-and-Preparation-using-Excel/)
 - Midterm Lab Task 2:[Data Cleaning and Preparation using Power Query](https://cyjiix29.github.io/Midterm-Task-2/)
 - Midterm Lab Task 3:[Creating PIVOT TABLE and DASHBOARD](https://cyjiix29.github.io/Midterm-Task-3/)
+
+#### Final Task
+- Final Task 1:[Multi Level Company]
+- Final Task 2:[Transform ER into Relational tables]
+- Final Task 3:[Table Manipulation]
