@@ -25,6 +25,6 @@ This portfolio will contain copies of my Enterprise Data Management Lab Exercise
 - Midterm Lab Task 3:[Creating PIVOT TABLE and DASHBOARD](https://cyjiix29.github.io/Midterm-Task-3/)
 
 #### Final Task
-- Final Task 1:[Multi Level Company]
+- Final Task 1:[Multi Level Company](https://cyjiix29.github.io/Final-Task-1/)
 - Final Task 2:[Transform ER into Relational tables]
 - Final Task 3:[Table Manipulation]
