@@ -26,5 +26,5 @@ This portfolio will contain copies of my Enterprise Data Management Lab Exercise
 
 #### Final Task
 - Final Task 1:[Multi Level Company](https://cyjiix29.github.io/Final-Task-1/)
-- Final Task 2:[Transform ER into Relational tables]
+- Final Task 2:[Transform ER into Relational tables](https://cyjiix29.github.io/Final-Task-2/)
 - Final Task 3:[Table Manipulation]
