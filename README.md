@@ -1,5 +1,3 @@
-
-
 # EDM-Portfolio - Cyjiix
 This portfolio will contain copies of my Enterprise Data Management Lab Exercises 
 
@@ -17,3 +15,5 @@ This portfolio will contain copies of my Enterprise Data Management Lab Exercise
 - Final Task 3-1:[Using MYSQL CLAUSE](https://cyjiix29.github.io/Final-Task-3-1/)
 - Final Task 5:[Using SQL views and Stored Procedures and Stored Funtions](https://cyjiix29.github.io/Final-Task-5/)
 - Final Task 6:[MOngoDBCRUD](https://cyjiix29.github.io/Final-Task-6/)
+
+[<< Back](https://cyjiix29.github.io/Cyjiix-Portfolio/)
